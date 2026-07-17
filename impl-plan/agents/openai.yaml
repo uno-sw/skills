@@ -1,0 +1,4 @@
+interface:
+  display_name: "実装計画書"
+  short_description: "要件・仕様書から自走検証可能なアジャイル実装計画書を作成"
+  default_prompt: "Use $impl-plan to create a verifiable iterative implementation plan from the project documents."
