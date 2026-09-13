@@ -1,0 +1,7 @@
+interface:
+  display_name: "Commit Working Tree"
+  short_description: "ワーキングツリー全体を確認して安全にローカルコミットします"
+  default_prompt: "$commit-working-tree を使って、現在のワーキングツリー全体をローカルコミットしてください。"
+
+policy:
+  allow_implicit_invocation: true
