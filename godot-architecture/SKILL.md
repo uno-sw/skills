@@ -1,6 +1,6 @@
 ---
 name: godot-architecture
-description: Define, review, and evolve the architecture of Godot 4 game projects. Use when planning or implementing Godot features, separating input, game/domain logic, physics, presentation, audio, and persistence; designing testable scenes and scripts; creating scenario tests; reviewing coupling to Node, SceneTree, Input, Autoloads, time, or randomness; or documenting architecture decisions. Applies primarily to Godot 4 with GDScript.
+description: Define, review, and evolve Godot 4 game architecture. Use only when the user or project context explicitly identifies Godot, such as by naming it or containing `project.godot`, `.tscn`, or `.gd` files. Do not infer Godot from generic game-development or architecture requests. Covers feature architecture, separation of responsibilities, testability, coupling reviews, and architecture decisions. Primarily for Godot 4 with GDScript.
 ---
 
 # Godot Architecture
